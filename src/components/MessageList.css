@@ -27,6 +27,7 @@
 
 .MessageList-item--user {
   align-self: flex-start;
+  width: 100%;
 }
 
 .MessageList-item--self {
