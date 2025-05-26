@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tele-party/static/css/main.8ff1df01.css",
-    "main.js": "/tele-party/static/js/main.319fb6d6.js",
+    "main.css": "/tele-party/static/css/main.4cf7de2f.css",
+    "main.js": "/tele-party/static/js/main.d44a109d.js",
     "index.html": "/tele-party/index.html",
-    "main.8ff1df01.css.map": "/tele-party/static/css/main.8ff1df01.css.map",
-    "main.319fb6d6.js.map": "/tele-party/static/js/main.319fb6d6.js.map"
+    "main.4cf7de2f.css.map": "/tele-party/static/css/main.4cf7de2f.css.map",
+    "main.d44a109d.js.map": "/tele-party/static/js/main.d44a109d.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ff1df01.css",
-    "static/js/main.319fb6d6.js"
+    "static/css/main.4cf7de2f.css",
+    "static/js/main.d44a109d.js"
   ]
 }
